@@ -3,28 +3,28 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "352069"))
+API_ID = int(os.environ.get("API_ID", "32772113"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","35cea1c5e6384f57e914ac9ff5ffd1")
+API_HASH = os.environ.get("API_HASH","79b81186aefef9ca9216c646152ffe45")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8309873942:AAHKpbr7GhXOiupMfpdBeNSsF2jBdH1dg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8863737534:AAF8ealAEaQeHnoBy6ZYevCelBgKQBAf4Qo")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extract_txt_new_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@GlobalXExtractor_Bot")
 BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "59388712"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7028236763"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-10037678927"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1004496808235"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003766078927")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003907469981")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://princepiax:princea45@cluster0.4kn7hq0.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-10037660927"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003920249676"))
 # -----------------------------------------------
-join = '<a href="https://t.me/princepia">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/free_EduX">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
